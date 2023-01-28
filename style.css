@@ -30,6 +30,8 @@ main{
 	justify-content:center;
 	align-items: center;
 	max-width: 43rem;
+	border-radius: 0.6rem;
+	box-shadow: 1px 10px 18px 0 rgba(56, 56, 56, 0.288);
 }
 
 .banner, .pricing, .persuasion{
